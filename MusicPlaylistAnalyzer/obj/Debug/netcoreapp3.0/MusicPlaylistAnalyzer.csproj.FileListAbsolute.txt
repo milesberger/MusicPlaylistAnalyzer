@@ -1,0 +1,11 @@
+/Users/milesberger/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.0/MusicPlaylistAnalyzer
+/Users/milesberger/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.deps.json
+/Users/milesberger/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.runtimeconfig.json
+/Users/milesberger/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.runtimeconfig.dev.json
+/Users/milesberger/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.dll
+/Users/milesberger/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.pdb
+/Users/milesberger/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+/Users/milesberger/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+/Users/milesberger/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.AssemblyInfo.cs
+/Users/milesberger/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.dll
+/Users/milesberger/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.pdb
